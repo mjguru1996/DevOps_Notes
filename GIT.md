@@ -1,3 +1,3 @@
 GIT:
 
-Git is a centralized source code management tool.
+Git is a centralized source code management tool. 
