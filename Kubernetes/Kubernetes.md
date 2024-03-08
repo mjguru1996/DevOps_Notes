@@ -5,15 +5,15 @@ It is a Container orchestration tool which is used to manage the containerized a
 
 Master Node:
 
-1.API Server- It acts as an front end of the entire architecture communication
+1. API Server- It acts as an front end of the entire architecture communication
 
-2.Kubectl-It is the tool which is used to communicate with the cluster
+2. Kubectl-It is the tool which is used to communicate with the cluster
 
-3.Controller Manager- It is connected only to API server . It Controles the entire pods creation and replicas
+3. Controller Manager- It is connected only to API server . It Controles the entire pods creation and replicas
 
-4.Scheduler-This schedules the pod activities like creation, deletion, deployment etc.,
+4. Scheduler-This schedules the pod activities like creation, deletion, deployment etc.,
 
-5.etcd (distributed key=value database) - This stores all the details about the cluster.
+5. etcd (distributed key=value database) - This stores all the details about the cluster.
 
 Worker Node:
 
