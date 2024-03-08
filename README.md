@@ -17,7 +17,7 @@ Master Node:
 
 Worker Node:
 1. kubelet - this is the connecting/managing component from master to worker
-2. 
-3. kubeproxy - All the internet request for the applications will come via this only. This plays vital role for user to application connectivity.
-4. 
-5. POD - Grouped containers, functional unit inside this architecture
+   
+2. kubeproxy - All the internet request for the applications will come via this only. This plays vital role for user to application connectivity.
+   
+3. POD - Grouped containers, functional unit inside this architecture
