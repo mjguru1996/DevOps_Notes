@@ -1,10 +1,10 @@
-# DevOps_Notes
-Kubernetes:
+# Kubernetes:
 It is a Container orchestration tool which is used to manage the containerized application by automated healing automated role back .
 
-Components of Kubernetes:
+# Components of Kubernetes:
 
 Master Node:
+
 1.API Server- It acts as an front end of the entire architecture communication
 
 2.Kubectl-It is the tool which is used to communicate with the cluster
@@ -16,6 +16,7 @@ Master Node:
 5.etcd (distributed key=value database) - This stores all the details about the cluster.
 
 Worker Node:
+
 1. kubelet - this is the connecting/managing component from master to worker
    
 2. kubeproxy - All the internet request for the applications will come via this only. This plays vital role for user to application connectivity.
