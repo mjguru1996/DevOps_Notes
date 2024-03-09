@@ -22,3 +22,11 @@ Worker Node:
 2. kubeproxy - All the internet request for the applications will come via this only. This plays vital role for user to application connectivity.
    
 3. POD - Grouped containers, functional unit inside this architecture
+
+# Installing Kubernetes
+
+  Kubernetes can be installed by 2 ways 
+
+  1-Kubeadm -(For Onpremisis server)
+
+  2-Kops -For (Cloud Server)
